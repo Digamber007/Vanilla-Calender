@@ -65,31 +65,15 @@ let calendar = new VanillaCalendar({
 ````
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Refernces
+# Acknowledgements
 - W3 School
 - MDN Web Docs
 - YouTube, etc.
 
+
+# Licences
+
+You can freely use it as reference for your projects or websites.
 
 
 
