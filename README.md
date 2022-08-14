@@ -3,8 +3,7 @@ Vanilla-Calender | HTML | CSS | Vanilla JavaScript
 
 # Introduction
 
-This is JavaScript's small project using HTML, CSS and Venilla JavaScript. Project is about to build an Calender and Filter the dates etc, using Vanilla JavaScript
-During this project I have learned some basic of Vanilla JavaScript and much more.
+This is JavaScript's small project using HTML, CSS, and Vanilla JavaScript. The project is about building a Calender and Filtering the dates etc, using Vanilla JavaScript During this project I have learned some basics of Vanilla JavaScript and much more.
 
 
 # Tools 
